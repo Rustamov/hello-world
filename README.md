@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi humans!
+I am Rustamov Kemran. I learn front-end development.
+
+"Yes, i can!
